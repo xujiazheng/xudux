@@ -1,6 +1,6 @@
 {
   "name": "xudux",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "实现react状态管理工具",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xujiazheng/xudux.git"
   }
 }
