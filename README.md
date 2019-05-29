@@ -116,4 +116,4 @@ export default connect(mapStateToProps)(App);
 #### 联系我
 
 * 邮箱：18397968326@163.com
-* issue: [https://github.com/xujiazheng/xudux/issues](#https://github.com/xujiazheng/xudux/issues)
+* issue: [https://github.com/xujiazheng/xudux/issues](https://github.com/xujiazheng/xudux/issues)
